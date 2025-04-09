@@ -1,7 +1,5 @@
 # 👋 Hello, I'm Valdei Jr
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin)](https://www.linkedin.com/in/valdei-ferreira-jr)
-
 I’m an **engineer** and **full stack developer** with experience in **embedded systems**, **IoT**, **games**, **web**, and **mobile applications**.
 
 Passionate about innovation and technology, I strive to apply best development practices and share knowledge — I spent **6 years teaching programming and robotics** in technical education.
@@ -29,7 +27,6 @@ I also have solid skills in:
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Valdeijr&layout=compact)
 
-<!--[![Email](https://img.shields.io/badge/Email-Valdeijr)](mailto:valdei.ferreira.jr@gmail.com) -->
 
 <!--
 ## 👋 Olá, meu nome é Valdei Junior.
