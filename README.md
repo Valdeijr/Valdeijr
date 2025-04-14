@@ -25,8 +25,7 @@ I also have solid skills in:
 
 ---
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Valdeijr&layout=compact)
-
+<!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Valdeijr&layout=compact) -->
 
 <!--
 ## 👋 Olá, meu nome é Valdei Junior.
