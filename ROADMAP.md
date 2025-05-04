@@ -8,10 +8,11 @@ Este roadmap tem como objetivo guiar a transição de um desenvolvedor com base 
 **Objetivo:** Consolidar lógica, algoritmos, paradigmas e boas práticas.
 
 ### Paradigmas de Programação
-- [ ] Programação Estruturada (Pascal, C)
-- [ ] Programação Procedural (C, Python, JS)
-- [ ] Programação Orientada a Objetos (C++, C#, TS, Go)
-- [ ] Programação Funcional (JS/TS, Python, Rust)
+- [x] Programação Estruturada (Pascal, C)
+- [x] Programação Procedural (C, Python)
+- [x] Programação Orientada a Objetos (C++, C#)
+- [ ] Programação Orientada a Objetos (TS, Go)
+- [ ] Programação Funcional (TS, Rust)
 - [ ] Reescrever pequenos projetos ou algoritmos em diferentes paradigmas
 
 ### Boas Práticas de Código
@@ -22,11 +23,10 @@ Este roadmap tem como objetivo guiar a transição de um desenvolvedor com base 
 - [ ] Padrões de nomenclatura, indentação, modularização
 
 ### Ferramentas Essenciais
-- [ ] Git básico (add, commit, branch, merge)
-- [ ] GitHub (pull requests, issues, actions)
-- [ ] Markdown para documentação de projetos
+- [x] Git básico (add, commit, branch, merge)
+- [x] GitHub (pull requests, issues, actions)
+- [x] Markdown para documentação de projetos
 
----
 
 ## Etapa 2 – Engenharia de Software
 **Objetivo:** Aprender a projetar, manter e escalar sistemas de forma limpa e sustentável.
@@ -43,18 +43,17 @@ Este roadmap tem como objetivo guiar a transição de um desenvolvedor com base 
 - [ ] BDD (Behavior-Driven Development)
 - [ ] Refatoração orientada a testes
 
----
 
 ## Etapa 3 – Desenvolvimento Fullstack + Portfólio
 **Objetivo:** Criar aplicações completas e aplicá-las em projetos reais (ex: IoT, apps, automação).
 
 ### Frontend / Mobile
 - [ ] React básico até avançado (componentes, hooks, context API)
-- [ ] React Native para aplicações mobile
+- [x] React Native para aplicações mobile
 - [ ] Boas práticas com TypeScript
 
 ### Backend
-- [ ] Node.js com Express
+- [x] Node.js
 - [ ] Python com Flask ou FastAPI
 - [ ] Rust com actix-web ou Rocket
 - [ ] Go (Golang) com net/http, Gin ou Fiber
@@ -65,7 +64,6 @@ Este roadmap tem como objetivo guiar a transição de um desenvolvedor com base 
 - [ ] CRUD completo com Clean Architecture
 - [ ] Repositório com documentação, imagens, vídeo e roadmap do projeto
 
----
 
 ## Etapa 4 – Sistemas Embarcados e IoT
 **Objetivo:** Unir software e hardware com foco prático e voltado para projetos reais.
@@ -75,7 +73,7 @@ Este roadmap tem como objetivo guiar a transição de um desenvolvedor com base 
 - [ ] Projetos com ESP8266 (conexão Wi-Fi, API ou MQTT)
 
 ### Raspberry Pi
-- [ ] Criar servidor local com Node.js ou Flask
+- [ ] Criar servidor local com Node.js
 - [ ] Rodar dashboards com Grafana ou aplicação React
 - [ ] Montar uma central MQTT (Mosquitto) e integrar com ESPs
 
@@ -84,7 +82,6 @@ Este roadmap tem como objetivo guiar a transição de um desenvolvedor com base 
 - [ ] Automação residencial básica (controle por app)
 - [ ] Estação meteorológica com envio para API própria
 
----
 
 ## Etapa 5 – Arquiteturas Modernas e DevOps
 **Objetivo:** Pensar como arquiteto de software e entender infraestrutura moderna.
@@ -102,7 +99,6 @@ Este roadmap tem como objetivo guiar a transição de um desenvolvedor com base 
 - [ ] Monitoramento com Grafana, Prometheus e Loki
 - [ ] Infraestrutura como Código (Terraform ou Ansible)
 
----
 
 ## Etapa 6 – Maturidade Profissional e Visibilidade
 **Objetivo:** Consolidar sua presença técnica e se posicionar como engenheiro de software completo.
@@ -122,11 +118,3 @@ Este roadmap tem como objetivo guiar a transição de um desenvolvedor com base 
 - [ ] Certificação em Docker, DevOps ou Kubernetes
 - [ ] Certificação em Cloud (AWS, GCP ou Azure)
 
----
-
-## Recomendação Final
-
-Organize esse roadmap em:
-- Um repositório "dev-roadmap" no GitHub
-- Um board do Trello ou Notion com colunas: A estudar | Em andamento | Concluído
-- Atualize seus projetos com documentação clara e imagens para valorizar seu portfólio
